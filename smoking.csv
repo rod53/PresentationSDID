@@ -1,4 +1,4 @@
-name;state;year;cigsale;lnincome;beer;age15to24;retprice;california;after_treatment
+name;state;year;cigsale;lnincome;beer;age15to24;retprice;treated;after_treatment
 Alabama;1;1970;89.80000305;;;0.178861782;39.59999847;FALSE;FALSE
 Alabama;1;1971;95.40000153;;;0.179927841;42.70000076;FALSE;FALSE
 Alabama;1;1972;101.0999985;9.498476028;;0.1809939;42.29999924;FALSE;FALSE
